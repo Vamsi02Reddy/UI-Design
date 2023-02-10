@@ -1,2 +1,2 @@
 # UI-Design
-Google Course using Figma
+Google Course 
